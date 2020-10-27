@@ -1,0 +1,20 @@
+{
+    "Author": "Anders Wahlqvist",
+    "ContentSize": 4768,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/setwebappserviceplan-change-app-service-plan-of-a-web-app-in-azure/master/Set-WebAppServicePlan.ps1",
+    "DownloadCount": 2489,
+    "Id": "Set-WebAppServicePlan-dc970e7b",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 303,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-10-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This function can change the app service plan of a website in Azure. It can also turn on AutoScale.It is not really production ready (should have more checks and error handling) but was created to give someone an idea on how to work with the new Azure module. So it's a bit simple",
+    "Title": "Set-WebAppServicePlan - Change app service plan of a web app in Azure",
+    "UpdatedDate": "2015-10-20T00:00:00",
+    "Url": "https://github.com/azureautomation/setwebappserviceplan-change-app-service-plan-of-a-web-app-in-azure",
+    "UserTags": "Powershell, Azure Automation"
+}
